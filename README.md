@@ -99,8 +99,7 @@ Feel free to reach out for further assistance.
 
 Contributors names and contact info
 
-Isha Limbasiya  
-https://www.linkedin.com/in/isha-limbasiya/
+[https://www.linkedin.com/in/isha-limbasiya/](https://www.linkedin.com/in/edison-tomas-1568a2319/)
 
 
 ## License
